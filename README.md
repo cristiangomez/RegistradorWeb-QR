@@ -1,1 +1,1 @@
-RegistradorWeb-QR
+Registrador-QR
